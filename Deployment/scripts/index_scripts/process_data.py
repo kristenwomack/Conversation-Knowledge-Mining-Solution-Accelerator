@@ -378,7 +378,7 @@ for path in paths:
             }
         )
   
-        if counter % 10 == 0:
+       
             result = search_client.upload_documents(documents=docs)
             docs = []
             print(f' {str(counter)} uploaded')
