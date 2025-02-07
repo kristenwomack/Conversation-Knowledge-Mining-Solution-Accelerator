@@ -1,0 +1,3 @@
+fastapi[standard] = 0.115.8
+pymssql==2.3.0
+pandas

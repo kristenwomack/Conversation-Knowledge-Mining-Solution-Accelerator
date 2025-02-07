@@ -9,3 +9,5 @@
 /LUISSchemaSerializationTool/LUISSchemaSerializationTool/bin
 /LUISSchemaSerializationTool/LUISSchemaSerializationTool/obj
 .fake
+
+__pycache__/
