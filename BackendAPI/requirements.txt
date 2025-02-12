@@ -1,3 +1,6 @@
-fastapi[standard] = 0.115.8
+fastapi[standard] == 0.115.8
 pymssql==2.3.0
 pandas
+openai==1.57.0
+semantic_kernel==1.19.0ad
+azure-search-documents==11.6.0b3
