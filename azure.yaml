@@ -5,7 +5,7 @@ environment:
   name: conversation-knowledge-mining
   location: eastus
 metadata:
-  name: conversation-knowledge-mining@1.0
+  template: conversation-knowledge-mining@1.0
   
 parameters:
   solutionPrefix:
